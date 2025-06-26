@@ -1,0 +1,49 @@
+NDIS Registration Groups
+Each support item specifies the Registration Group for which a Registered Provider who delivers
+the support must be registered with the NDIS Quality and Safeguards Commission. There are
+currently 36 Registration Groups.
+Number Registration Group Name
+General Registration Groups
+0101 Accommodation / Tenancy Assistance
+0102 Assistance to Access and Maintain Employment or Higher Education
+0104 High Intensity Daily Personal Activities
+0106 Assistance in Coordinating or Managing Life Stages, Transitions And Supports
+0107 Daily Personal Activities
+0108 Assistance with Travel/Transport Arrangements
+0115 Assistance with Daily Life Tasks in a Group or Shared Living Arrangement
+0116 Innovative Community Participation
+0117 Development of Daily Living and Life Skills
+0120 Household Tasks
+0125 Participation in Community, Social and Civic Activities
+0127 Management of Funding for Supports in Participants’ Plans
+0129 Specialised Driver Training
+0130 Assistance Animals
+0131 Specialised Disability Accommodation
+0133 Specialised Supported Employment
+0136 Group and Centre Based Activities
+
+Support Purposes, Support Categories and Support Items
+NDIS Pricing Arrangements and Price Limits 2024-25 Version 1.3 (published 1/10/2024) Page 13 of 97
+Number Registration Group Name
+Professional Registration Groups
+0110 Specialist Positive Behaviour Support
+0114 Community Nursing Care
+0118 Early Intervention Supports for Early Childhood
+0119 Specialised Hearing Services
+0121 Interpreting and Translation
+0126 Exercise Physiology and Personal Training
+0128 Therapeutic Supports
+0132 Specialised Support Coordination
+0134 Hearing Services
+0135 Customised Prosthetics
+Home and Vehicle Modification Registration Groups
+0109 Vehicle Modifications
+0111 Home Modifications
+Assistive Technology and Equipment Registration Groups
+0103 Assistive Products for Personal Care and Safety
+0105 Personal Mobility Equipment
+0112 Assistive Equipment for Recreation
+0113 Vision Equipment
+0122 Hearing Equipment
+0123 Assistive Products for Household Tasks
+0124 Communication and Information Equipment
